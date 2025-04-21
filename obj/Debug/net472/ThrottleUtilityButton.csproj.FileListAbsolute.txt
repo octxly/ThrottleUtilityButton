@@ -1,0 +1,15 @@
+C:\Users\Julien\VisualStudioProjects\ThrottleUtilityButton\bin\Debug\net472\ThrottleUtilityButton.dll
+C:\Users\Julien\VisualStudioProjects\ThrottleUtilityButton\bin\Debug\net472\ThrottleUtilityButton.pdb
+C:\Users\Julien\VisualStudioProjects\ThrottleUtilityButton\bin\Debug\net472\AsmResolver.DotNet.dll
+C:\Users\Julien\VisualStudioProjects\ThrottleUtilityButton\bin\Debug\net472\AsmResolver.PE.File.dll
+C:\Users\Julien\VisualStudioProjects\ThrottleUtilityButton\bin\Debug\net472\AsmResolver.PE.dll
+C:\Users\Julien\VisualStudioProjects\ThrottleUtilityButton\bin\Debug\net472\AsmResolver.dll
+C:\Users\Julien\VisualStudioProjects\ThrottleUtilityButton\bin\Debug\net472\BepInEx.AssemblyPublicizer.MSBuild.dll
+C:\Users\Julien\VisualStudioProjects\ThrottleUtilityButton\bin\Debug\net472\BepInEx.AssemblyPublicizer.dll
+C:\Users\Julien\VisualStudioProjects\ThrottleUtilityButton\obj\Debug\net472\ThrottleUtilityButton.csproj.AssemblyReference.cache
+C:\Users\Julien\VisualStudioProjects\ThrottleUtilityButton\obj\Debug\net472\ThrottleUtilityButton.IgnoresAccessChecksTo.cs
+C:\Users\Julien\VisualStudioProjects\ThrottleUtilityButton\obj\Debug\net472\ThrottleUtilityButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julien\VisualStudioProjects\ThrottleUtilityButton\obj\Debug\net472\ThrottleUtilityButton.csproj.CoreCompileInputs.cache
+C:\Users\Julien\VisualStudioProjects\ThrottleUtilityButton\obj\Debug\net472\Throttle.ED825DC3.Up2Date
+C:\Users\Julien\VisualStudioProjects\ThrottleUtilityButton\obj\Debug\net472\ThrottleUtilityButton.dll
+C:\Users\Julien\VisualStudioProjects\ThrottleUtilityButton\obj\Debug\net472\ThrottleUtilityButton.pdb
